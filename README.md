@@ -1,4 +1,4 @@
 # best-repo-ever
 First repository of Salesforce
 
-He realizado cambios en el archivo Readme.
+Estos son los cambios definitivos en el archivo Readme.
